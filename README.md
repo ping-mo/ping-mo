@@ -7,7 +7,7 @@
 
 ## 🛠 Tech Stack
 ### Frontend
-- React.js
+- React
 - Electron
 - Flutter
 - Android
@@ -29,7 +29,6 @@
 - Swift
 - C#
 - Java
-- Python
 
 ### Database Management Systems
 - MongoDB
