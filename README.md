@@ -18,6 +18,7 @@
 - Node.js
 - Socket.IO
 - Spring
+- fastify
 - .NET Core
 
 ### Languages
