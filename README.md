@@ -46,6 +46,8 @@
 - Jenkins
 - Grafana
 - Nginx
+- kafka
+- Grpc
 
 ---
 *Last updated: December 2024*
